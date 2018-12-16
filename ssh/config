@@ -1,0 +1,24 @@
+# tusonggao(tusonggao@163.com)
+Host tusonggao
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa_one
+User tusonggao
+
+
+
+# yushan007(tensorflow2017@gmail.com)
+Host yushan007
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa_two
+User yushan007
+
+
+
+# ywk8816(ywk8816@163.com)
+Host ywk8816
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa_ywk
+User ywk8816
