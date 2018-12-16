@@ -1,0 +1,904 @@
+{
+    "RECORDS": [
+        {
+            "Id": "D5F6E903-C979-4B30-8D44-1592529CDC62",
+            "CreationDate": "1/5/2018 08:07:56.797",
+            "BuyUserId": "BB5F203C-ACB3-4AD4-9B6D-07D700890F59",
+            "OperateId": "2B102943-A178-4316-BB8E-DE4DD39EB559",
+            "VisitContent": "安排",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "37966F86-2182-4194-9F50-57C452D255E7",
+            "CreationDate": "1/5/2018 08:08:29.267",
+            "BuyUserId": "F01F96A9-125E-431B-B8E1-01BDFAFE91A7",
+            "OperateId": "2B102943-A178-4316-BB8E-DE4DD39EB559",
+            "VisitContent": "安排",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "BCD5DC3A-5A93-457A-B979-4D531A05C02F",
+            "CreationDate": "1/5/2018 08:16:52.467",
+            "BuyUserId": "21B8077F-B230-446C-856D-AB5A1025AD97",
+            "OperateId": "2B102943-A178-4316-BB8E-DE4DD39EB559",
+            "VisitContent": "安排",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "D069BC5B-D4A8-4939-9A23-3E1BB266A3FE",
+            "CreationDate": "1/5/2018 08:26:09.95",
+            "BuyUserId": "2E66892D-100C-457B-800B-5867EBED4131",
+            "OperateId": "2B102943-A178-4316-BB8E-DE4DD39EB559",
+            "VisitContent": "说用完再说",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "C06A0027-91C7-4EC4-8CD1-484376D6C2A6",
+            "CreationDate": "1/5/2018 08:26:33.39",
+            "BuyUserId": "4CE32815-C3A8-4E8B-9BB6-EC579F2657E7",
+            "OperateId": "2B102943-A178-4316-BB8E-DE4DD39EB559",
+            "VisitContent": "安排",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "9F843A96-DD16-44DD-8077-8DC291C3A87F",
+            "CreationDate": "1/5/2018 09:02:31.503",
+            "BuyUserId": "4439D3E3-A059-4CD9-959E-98777BF906DD",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "安排",
+            "CallStatus": "01",
+            "MedicineEffect": "03"
+        },
+        {
+            "Id": "97310170-33A5-4414-AA07-26409D1CC5E1",
+            "CreationDate": "1/5/2018 09:02:44.867",
+            "BuyUserId": "97ACE278-EF56-4B28-B645-B5D3B0C73038",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "29F6E456-AF4E-4019-B036-60E214CB84BB",
+            "CreationDate": "1/5/2018 09:03:11.863",
+            "BuyUserId": "5DEF466B-4750-479A-AC6C-BF6562DE5758",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "客户级别由：A：预计3天内成单>>B：预计4~7天成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "F194B389-6437-49D6-9C78-7FCD62DE851F",
+            "CreationDate": "1/5/2018 09:03:11.863",
+            "BuyUserId": "5DEF466B-4750-479A-AC6C-BF6562DE5758",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": ".",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "48B80572-6E2E-4D61-9560-E887342340F4",
+            "CreationDate": "1/5/2018 09:03:51.163",
+            "BuyUserId": "1070EC33-DCBC-463E-9B38-496FA113435C",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "明天",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "5050ECEE-4D64-4A5C-BDE6-4F48D80A5E86",
+            "CreationDate": "1/5/2018 09:06:16.163",
+            "BuyUserId": "B636FF77-6106-40E3-A673-11E4103F064C",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "132：拒接",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "F9E5F5B2-4916-444F-BD5B-1C055F5334C0",
+            "CreationDate": "1/5/2018 09:06:40.413",
+            "BuyUserId": "03E29C82-F542-4DEE-A53D-FE5B4719E05D",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "未用药",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "C3431E24-B565-428D-9B9C-8A1B37566065",
+            "CreationDate": "1/5/2018 09:07:06.043",
+            "BuyUserId": "DE4A12A9-7F66-4BE1-AD56-34421894A1AD",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "98D35054-42E7-44CB-8338-6307B38798D1",
+            "CreationDate": "1/5/2018 09:07:11.38",
+            "BuyUserId": "277407EE-73C0-43F1-967F-DA14708E70C4",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "基本痊愈",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "A0FD8817-8186-4C22-8E62-54CE7CA7C9B3",
+            "CreationDate": "1/5/2018 09:09:06.403",
+            "BuyUserId": "AA0B380D-ABE9-4F35-9600-0DC01711EFFC",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "基本痊愈",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "70BB19FC-ADD0-4EE5-9982-567798EED027",
+            "CreationDate": "1/5/2018 09:12:16.367",
+            "BuyUserId": "E350AF37-582A-4A33-96AA-D15D35D359D1",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "F61BFA1F-FF26-4C31-BF21-03DFF5F51914",
+            "CreationDate": "1/5/2018 09:12:30.43",
+            "BuyUserId": "DBA858D5-E5ED-4EFD-B0F0-1CA568A8E414",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "C830D511-363B-4D5C-80BB-1B0D48C758D7",
+            "CreationDate": "1/5/2018 09:13:07.68",
+            "BuyUserId": "F9F58E9E-4CCC-40B9-BCB5-5DE5FF0BFBA9",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "自动拒接",
+            "CallStatus": "03",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "65F21282-DA06-4BA8-9DC1-137FFBA75580",
+            "CreationDate": "1/5/2018 09:13:25.643",
+            "BuyUserId": "61BEC365-63AE-46ED-9A4F-8354F6EB43AD",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "客户级别由：D：短期难以成单>>J未分类",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "FCC182C1-D045-44AA-BFAE-FCBC838DDB31",
+            "CreationDate": "1/5/2018 09:13:25.643",
+            "BuyUserId": "61BEC365-63AE-46ED-9A4F-8354F6EB43AD",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "73DED25A-E8B8-478B-B898-50D8345990D8",
+            "CreationDate": "1/5/2018 09:13:27.873",
+            "BuyUserId": "FF660B9A-0522-4B4A-8D57-B3560AA4774F",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": ".",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "F0B30A3E-2AD5-4D69-82D3-A7EF5800F61C",
+            "CreationDate": "1/5/2018 09:14:30.813",
+            "BuyUserId": "078624C8-F10A-480E-8684-CCD549A7369C",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "态度恶劣，无有效沟通",
+            "CallStatus": "13",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "C9DE38DE-E9B8-42AE-AAFD-CEF291447ED0",
+            "CreationDate": "1/5/2018 09:15:00.047",
+            "BuyUserId": "965F08AB-BEF4-4120-9975-40BA8AFBCFEF",
+            "OperateId": "DBFA19C5-47B0-4757-9833-FAD539BD2773",
+            "VisitContent": "客户级别由：F：等待客户签收>>B：预计4~7天成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "FB34E150-0EF8-49DA-8246-3543ED447704",
+            "CreationDate": "1/5/2018 09:15:00.047",
+            "BuyUserId": "965F08AB-BEF4-4120-9975-40BA8AFBCFEF",
+            "OperateId": "DBFA19C5-47B0-4757-9833-FAD539BD2773",
+            "VisitContent": "压力大，眼睛分泌物多，眼屎多，近期睡眠质量不好，异物感，黑点",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "DEDD7378-74BA-4A9A-9167-28DF9A54F26E",
+            "CreationDate": "1/5/2018 09:15:56.787",
+            "BuyUserId": "DBB5A6AF-1394-41C4-ABA9-EA6F4D3D0B4F",
+            "OperateId": "DBFA19C5-47B0-4757-9833-FAD539BD2773",
+            "VisitContent": "排便一天2一3次，大便正常，眼睛干涩，眼睛疲劳，看东西视力模糊，调整了用法5天回了家再联系",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "DC5B3B76-12DF-4800-BA6B-ADB346B0748F",
+            "CreationDate": "1/5/2018 09:17:35.65",
+            "BuyUserId": "A5A2E008-FAB0-4010-9F33-2E6AB22F234F",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "13549783538  录音其他收货电话 合并",
+            "CallStatus": "01",
+            "MedicineEffect": "03"
+        },
+        {
+            "Id": "1A7821DA-E4A5-4BA6-A004-F706DA10F986",
+            "CreationDate": "1/5/2018 09:19:56.74",
+            "BuyUserId": "AB1DB65D-0576-487E-9351-6EA1E9640CB5",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "E0FC4960-DEA7-4E6E-BF9D-5ACA05540A77",
+            "CreationDate": "1/5/2018 09:21:03.837",
+            "BuyUserId": "05C185B9-E737-451D-83CD-31882EFCC3BD",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "12135664-71EC-4580-8ADD-33A386AB17B5",
+            "CreationDate": "1/5/2018 09:21:29.633",
+            "BuyUserId": "E379803A-1FB2-46DA-8D1C-38706818C6EB",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "客户级别由：D：短期难以成单>>J未分类",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "DD59F15F-77F4-4CD4-952D-BFDCA462B11B",
+            "CreationDate": "1/5/2018 09:21:29.633",
+            "BuyUserId": "E379803A-1FB2-46DA-8D1C-38706818C6EB",
+            "OperateId": "F57C6CF6-F0BE-4860-A03D-32835A1691D6",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "23945CB9-F4FB-4C12-A581-90935F2DD080",
+            "CreationDate": "1/5/2018 09:21:56.553",
+            "BuyUserId": "E40616D0-4A54-4EF5-9B02-59B79FEA8110",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "27C252CD-FA2B-490F-8DCC-0761F739D7F8",
+            "CreationDate": "1/5/2018 09:22:49.533",
+            "BuyUserId": "B016768E-380C-4217-A406-1C3245EDF10E",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "1D184536-70FD-4D96-8DE4-674FB4C62338",
+            "CreationDate": "1/5/2018 09:23:04.85",
+            "BuyUserId": "ADFA3069-A641-4493-AC3E-9240767E7F5B",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "忙",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "5494502C-7F9A-4D16-9300-E6F5B75E9DF7",
+            "CreationDate": "1/5/2018 09:24:22.73",
+            "BuyUserId": "8078F442-674B-4B50-8AFD-4C12DA96B703",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "未用药，忙，以后晚上七点以后打",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "ED53DFEC-D2E5-4540-A727-64A19508BDAF",
+            "CreationDate": "1/5/2018 09:26:22.823",
+            "BuyUserId": "22DE58F5-03D3-46E0-9E90-F565F97C57AC",
+            "OperateId": "120F7BB3-5A23-43DB-99CE-8C5ED7105F66",
+            "VisitContent": "效果一般，在长期服用",
+            "CallStatus": "01",
+            "MedicineEffect": "03"
+        },
+        {
+            "Id": "AA58482F-5C6F-4C96-A310-87EA7D88D7D7",
+            "CreationDate": "1/5/2018 09:26:57.163",
+            "BuyUserId": "CC1CC141-641E-4248-96E6-A47E511FACC2",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "C22F7E68-4E1E-41EA-9047-1862CA03666C",
+            "CreationDate": "1/5/2018 09:28:19.993",
+            "BuyUserId": "31D1A93D-2F89-4A08-9A47-29EA8B3D31D0",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "效果明显  安排页面价格下单，还是很好说话的",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "8ACF83AB-C46C-49A9-B5C6-C6DB0BACB01D",
+            "CreationDate": "1/5/2018 09:28:34.8",
+            "BuyUserId": "03062186-D1B6-40ED-A10B-F92B18CC1E42",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "医院上班  不清楚",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "DB8E9269-1A1C-4245-8125-F1188DD7B30D",
+            "CreationDate": "1/5/2018 09:28:47.52",
+            "BuyUserId": "393B948E-FED6-47A1-AC91-B42277E321DB",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "未用药，忙，知道的，没什么问题",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "3589FC1D-7838-43A0-B655-E141945650EB",
+            "CreationDate": "1/5/2018 09:29:13.69",
+            "BuyUserId": "03062186-D1B6-40ED-A10B-F92B18CC1E42",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "未用药",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "25D2ADC2-DBC1-4187-A544-343E7ECBB29A",
+            "CreationDate": "1/5/2018 09:30:01.557",
+            "BuyUserId": "DEF58A25-3939-42CB-AC1A-AFC14F84E5BC",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "016170FB-5391-4011-9C1E-771640CE0571",
+            "CreationDate": "1/5/2018 09:31:01.453",
+            "BuyUserId": "6DD75C41-AA70-4264-B588-37114C49083E",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "客户级别由：C：预计8~30天成单>>B：预计4~7天成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "8B7530C7-E10A-4F16-8227-180EE2E6CBE5",
+            "CreationDate": "1/5/2018 09:31:01.453",
+            "BuyUserId": "6DD75C41-AA70-4264-B588-37114C49083E",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "基本痊愈  早上有来电13406707337  说一米六  体重150斤现在减了20斤，很厉害啊，现在晚上再运动做操，没问题，中间活动联系，或者五月中旬买点\r\n",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "27E069FE-A439-4E82-8FE9-EE64598948A3",
+            "CreationDate": "1/5/2018 09:31:07.33",
+            "BuyUserId": "08663B3C-1806-4355-8858-2CAD256EF383",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "傻逼吧？  拽什么拽啊 弱智",
+            "CallStatus": "13",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "A04AA60B-3E87-41D0-A30C-2A331741F030",
+            "CreationDate": "1/5/2018 09:32:24.433",
+            "BuyUserId": "CF109C89-03BC-441D-B9FD-501AE61CA208",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "1E3A3DF7-0DC4-4B71-86CA-280D9B2E3DA8",
+            "CreationDate": "1/5/2018 09:34:13.167",
+            "BuyUserId": "AEA34B97-FC16-482A-809C-6562DD4858A3",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "2A9556D7-D872-4A87-813B-96AEC2D59C0F",
+            "CreationDate": "1/5/2018 09:35:03.62",
+            "BuyUserId": "E4DC7B62-31B0-48FF-B323-9B9486670112",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "安排",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "0AE0695D-A029-4C12-B84C-570A0D86D45A",
+            "CreationDate": "1/5/2018 09:35:15.14",
+            "BuyUserId": "E4DC7B62-31B0-48FF-B323-9B9486670112",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "安排，还有7盒",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "F62FD732-2D5F-4EEC-B1D7-C5643BC4FC84",
+            "CreationDate": "1/5/2018 09:35:45.357",
+            "BuyUserId": "31F2D473-9BA2-4B7B-A125-CF338117C4A6",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "客户级别由：B：预计4~7天成单>>A：预计3天内成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "87366BDE-8ED2-4329-9E4B-5DF482B33622",
+            "CreationDate": "1/5/2018 09:35:45.357",
+            "BuyUserId": "31F2D473-9BA2-4B7B-A125-CF338117C4A6",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "基本痊愈  安排 跟吧",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "D8CB684B-CE72-476B-ABAD-980F95EC7F21",
+            "CreationDate": "1/5/2018 09:36:17.047",
+            "BuyUserId": "2401A0A8-C18F-4D51-B910-4163DC07E151",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "客户级别由：C：预计8~30天成单>>D：短期难以成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "3874ADE2-FB3B-4887-999F-605BE94ADFFC",
+            "CreationDate": "1/5/2018 09:36:17.047",
+            "BuyUserId": "2401A0A8-C18F-4D51-B910-4163DC07E151",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "  说自己是药房  我们这贵了 \r\n贵了你自己去其他地方买啊 脑残",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "9F05D63A-DC6A-45FA-9EC7-372E5904223C",
+            "CreationDate": "1/5/2018 09:37:32.877",
+            "BuyUserId": "FBC2515F-A2D1-4801-9702-8FB20C8E9938",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "FFB5D8B3-7B3B-4F95-8411-CD8548A0AEC5",
+            "CreationDate": "1/5/2018 09:38:13.917",
+            "BuyUserId": "1F203167-C172-4316-9906-01C6CC3E414C",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "D21551A7-81E6-4DA3-A026-FDF5C1DE2398",
+            "CreationDate": "1/5/2018 09:38:23.683",
+            "BuyUserId": "FBC2515F-A2D1-4801-9702-8FB20C8E9938",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "3251A98A-4D92-4F76-BB39-04758F8707D4",
+            "CreationDate": "1/5/2018 09:38:28.7",
+            "BuyUserId": "327621DB-6B6C-44D9-87CE-EFEC4B44ABA6",
+            "OperateId": "9E14EAD0-1D77-4947-904A-A8C7A046AFC1",
+            "VisitContent": "客户级别由：I新资料>>B：预计4~7天成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "41C5524D-8E57-4FBE-98BB-6F3CA3217CFA",
+            "CreationDate": "1/5/2018 09:38:28.7",
+            "BuyUserId": "327621DB-6B6C-44D9-87CE-EFEC4B44ABA6",
+            "OperateId": "9E14EAD0-1D77-4947-904A-A8C7A046AFC1",
+            "VisitContent": "效果一般,没人接电话",
+            "CallStatus": "01",
+            "MedicineEffect": "03"
+        },
+        {
+            "Id": "05667F32-E1E2-4905-BF80-B7E4F49B6B33",
+            "CreationDate": "1/5/2018 09:39:16.943",
+            "BuyUserId": "568AC10A-B807-4B99-8617-87AA18DEFCA0",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "效果明显，自己用的，牛皮癣，轻微的，点状，目前用药控制吧，说了一下注意的，需要联系",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "7055CED6-10F6-4DB9-BFDC-019A4B966483",
+            "CreationDate": "1/5/2018 09:39:22.447",
+            "BuyUserId": "E88A6698-7224-4495-ABCD-8F2B10215EAA",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "13F3817C-DF75-4126-B42D-FE425F549342",
+            "CreationDate": "1/5/2018 09:39:47.567",
+            "BuyUserId": "8D5788DA-5BB4-4625-8C5B-23E077DAF98B",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "B4EA2C23-8EF8-4544-8345-F6996E0333A8",
+            "CreationDate": "1/5/2018 09:39:48.21",
+            "BuyUserId": "D7ADA607-F00D-475A-B04A-890146552B9A",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "客户级别由：C：预计8~30天成单>>D：短期难以成单",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "2643C4E0-81E7-454D-87F8-71DC3A029DEF",
+            "CreationDate": "1/5/2018 09:39:48.21",
+            "BuyUserId": "D7ADA607-F00D-475A-B04A-890146552B9A",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "未用药，栓剂不行，这个用的效果不好，知道的，这个口服的不能停，知道的，跟微信5722",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "9FAA77F0-5D74-415B-A1B9-60794A372343",
+            "CreationDate": "1/5/2018 09:41:12.407",
+            "BuyUserId": "683B4A48-66DC-4459-930D-918743F49D51",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "392839FE-BACB-4381-9FF3-FE446DEDC575",
+            "CreationDate": "1/5/2018 09:41:13.033",
+            "BuyUserId": "30981B21-5045-4944-88CC-447B55E246C7",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "E931E2D7-F376-4ECA-8BF1-4246A04AE7C1",
+            "CreationDate": "1/5/2018 09:41:24.163",
+            "BuyUserId": "DC3FB479-6740-41CA-B5F6-3C2E203354EC",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "8F19A246-EB84-4367-8E32-7D98797CB438",
+            "CreationDate": "1/5/2018 09:42:23.807",
+            "BuyUserId": "AC7195C7-EA6D-401C-A043-F6DC8C749BBF",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "AAF87AD3-23E6-4997-9A39-DDB8F1D835AA",
+            "CreationDate": "1/5/2018 09:43:07.347",
+            "BuyUserId": "CC8DA3C9-E9EF-42A6-81FE-268274B8B1B7",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "D58E351B-5A42-49D1-97BC-7231D9F9F292",
+            "CreationDate": "1/5/2018 09:43:14.727",
+            "BuyUserId": "51C62C87-94D9-48E2-B93C-96188D9E79C3",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "F8E015A6-3E4C-49CE-8570-20F4C3667A50",
+            "CreationDate": "1/5/2018 09:43:48.39",
+            "BuyUserId": "DA4D1AC9-5032-465B-AAE2-9CFC98144BCC",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "效果明显  修改好了跟吧",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "9278C582-29DB-47E9-B2BA-37175602157C",
+            "CreationDate": "1/5/2018 09:44:22.077",
+            "BuyUserId": "C0691FDC-3507-47EE-8F26-1BFFAC8B2020",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "接后挂断",
+            "CallStatus": "10",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "1C7A9BA2-91A6-43C0-8143-B8D58A53A02D",
+            "CreationDate": "1/5/2018 09:44:36.813",
+            "BuyUserId": "E47CF35F-5A29-47D5-9D3E-427141AD284D",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "0A314AD6-1FB1-41DC-87F7-844F6D3BC69D",
+            "CreationDate": "1/5/2018 09:44:58.523",
+            "BuyUserId": "80119B07-6016-4DF0-8C98-7981381A2A31",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "正在通话",
+            "CallStatus": "06",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "27010855-AAE4-4FC0-BF27-028C8EF576F2",
+            "CreationDate": "1/5/2018 09:45:09.463",
+            "BuyUserId": "3D3EEC3F-97C3-4682-B82B-8AD89D7FF415",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "客户级别由：C：预计8~30天成单>>D：短期难以成单",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "B9FB5845-AADC-484D-A9AD-856F2F4137FF",
+            "CreationDate": "1/5/2018 09:45:09.463",
+            "BuyUserId": "3D3EEC3F-97C3-4682-B82B-8AD89D7FF415",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "3BD7CC47-4918-470C-89BF-AFF1C4EF4186",
+            "CreationDate": "1/5/2018 09:45:12.933",
+            "BuyUserId": "4B88A4B2-6CC1-4E4A-85A4-B9ACA3C35486",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": ".",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "EE40F2A4-7D13-47B9-9EFB-2BE417C3FF94",
+            "CreationDate": "1/5/2018 09:45:36.053",
+            "BuyUserId": "83ED56C2-D832-4BA3-8DF7-FAAD0B87CA8A",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "1B95C576-AE64-4CEF-A95B-F555A6BB5341",
+            "CreationDate": "1/5/2018 09:46:06.477",
+            "BuyUserId": "06B864E6-57F1-4D55-ABCC-A895C2CA10D0",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": ".",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "736068AD-2281-412D-B2C1-9247F644FA27",
+            "CreationDate": "1/5/2018 09:46:33.213",
+            "BuyUserId": "B4348D5A-2D2F-4AD5-B63A-442424B8B12C",
+            "OperateId": "DBFA19C5-47B0-4757-9833-FAD539BD2773",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "E80EEFA3-22C7-4E2A-9914-A0858CBAC8C3",
+            "CreationDate": "1/5/2018 09:47:10.163",
+            "BuyUserId": "1911B7FD-38EE-4274-8293-A9E41292C1A2",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "35A0CAE7-6DF9-41BE-B37B-14230DC10B53",
+            "CreationDate": "1/5/2018 09:48:02.647",
+            "BuyUserId": "84735A9C-F5DE-4DBA-9ADE-8E41F8732556",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "9AE0EDE8-558E-448C-A63A-801A9A8756A6",
+            "CreationDate": "1/5/2018 09:48:26.577",
+            "BuyUserId": "2C922D8B-2FB5-4CE3-BA20-126369245F0A",
+            "OperateId": "EA2B2FE9-2947-42A7-8181-F6EB85C477D4",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "6D2BE385-3674-4A72-B14D-C3AD9A427D35",
+            "CreationDate": "1/5/2018 09:50:18.907",
+            "BuyUserId": "F0731613-D650-4302-A103-B69CB59061AB",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "E65360D6-9B81-46B6-8A00-154EF58DD5DE",
+            "CreationDate": "1/5/2018 09:51:13.62",
+            "BuyUserId": "7417F19F-9A2D-4EEE-A413-C1755D8AF9D4",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "30DBA180-AF45-4283-AEB0-6B378A649B12",
+            "CreationDate": "1/5/2018 09:51:19.333",
+            "BuyUserId": "AE8B204E-430C-4B5D-A457-39F3B7E03A9B",
+            "OperateId": "DF2DDAFC-2A8A-49DD-AEE3-E516943411F3",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "7557424A-AA4D-466A-B5BB-75EF169E5CAB",
+            "CreationDate": "1/5/2018 09:51:27.77",
+            "BuyUserId": "23C36BB6-2FDA-48AE-ABC8-D07B1F7D0904",
+            "OperateId": "B7AE2462-F2FD-43B6-8A03-2CE326277904",
+            "VisitContent": "13424153798  代收的  重新下单换地址电话了 ",
+            "CallStatus": "01",
+            "MedicineEffect": "02"
+        },
+        {
+            "Id": "AA60D584-3D97-4F41-93F7-56C74E74EAAB",
+            "CreationDate": "1/5/2018 09:51:30.517",
+            "BuyUserId": "10473700-380D-4A67-9648-0BA90A2E541E",
+            "OperateId": "2B257A60-1287-49A0-90EB-FDEF19B684B9",
+            "VisitContent": "拒接",
+            "CallStatus": "08",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "AFF9A3E8-A2A8-4010-9880-F4FDC87E291D",
+            "CreationDate": "1/5/2018 09:51:33.49",
+            "BuyUserId": "1ECC7C9B-3ADC-4F1A-AF07-C059860B8E2F",
+            "OperateId": "DBFA19C5-47B0-4757-9833-FAD539BD2773",
+            "VisitContent": "又说情况现在好多了，自己看吧，只要不出现联系不上就好了",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "00611B20-D062-4630-B7E2-88AAAE18D2DD",
+            "CreationDate": "1/5/2018 09:51:41.127",
+            "BuyUserId": "2FC6DE4C-DF28-44BE-B19B-945BE1D3D6B3",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "还没有使用！",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "A6EB49EE-558D-455A-8D25-A62716408BF8",
+            "CreationDate": "1/5/2018 09:51:41.673",
+            "BuyUserId": "2FC6DE4C-DF28-44BE-B19B-945BE1D3D6B3",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "还没有使用！",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "73D60A62-B3DA-452F-9160-CBA3143F000E",
+            "CreationDate": "1/5/2018 09:51:49.403",
+            "BuyUserId": "E2489DA7-9BD9-4BEF-88C8-92444ED83655",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "客户级别由：H已处理投诉类>>J未分类",
+            "CallStatus": "01",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "FABB98C7-EF54-4CD2-A8CB-3C32ADD735B6",
+            "CreationDate": "1/5/2018 09:51:49.403",
+            "BuyUserId": "E2489DA7-9BD9-4BEF-88C8-92444ED83655",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "未用药，没有变白，那就没有事了，属于寻常疣了，说了一些注意的，有问题再联系吧",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "3CB64C37-AD59-49EA-8E78-A8FA86995A65",
+            "CreationDate": "1/5/2018 09:51:52.437",
+            "BuyUserId": "CCDC32DB-A150-4AD4-80B0-F0853CEEEED2",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "无法接通",
+            "CallStatus": "07",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "9194EF0C-B191-4E7F-B4D9-A5FB9C98071E",
+            "CreationDate": "1/5/2018 09:52:17.807",
+            "BuyUserId": "88065949-7F5D-419D-9C09-49483F16526B",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "未用药",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "323C5CC4-B541-4F69-9F2E-8EFD75B5F708",
+            "CreationDate": "1/5/2018 09:53:02.59",
+            "BuyUserId": "03CE9B78-4AFA-4852-997F-9DB0237D8636",
+            "OperateId": "4B848F95-A29E-4E0A-821E-934C567834D9",
+            "VisitContent": "此人很咸鱼",
+            "CallStatus": "01",
+            "MedicineEffect": "01"
+        },
+        {
+            "Id": "752065DC-3583-4895-8C78-1B2C61A4E6E0",
+            "CreationDate": "1/5/2018 09:53:11.78",
+            "BuyUserId": "E812D5A9-10A1-4553-9863-66549F8C8DE9",
+            "OperateId": "5DBC6906-EB1C-49A1-9673-6ED1DDD43040",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "6D3BE569-0385-4F65-98B6-BEBBE322ECAC",
+            "CreationDate": "1/5/2018 09:53:29.75",
+            "BuyUserId": "CC71A87D-FEB8-4843-8815-10610778A185",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "FDA651ED-5A1E-426C-BD8C-ABAE5999181F",
+            "CreationDate": "1/5/2018 09:53:39.97",
+            "BuyUserId": "EF0B7165-3904-49B1-AF5C-9CD840DCE761",
+            "OperateId": "2B257A60-1287-49A0-90EB-FDEF19B684B9",
+            "VisitContent": "不方便",
+            "CallStatus": "12",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "363DBD06-A6EE-4964-9376-071CA6BCFFE8",
+            "CreationDate": "1/5/2018 09:53:43.72",
+            "BuyUserId": "D3250299-E642-48A3-B8DB-291622232851",
+            "OperateId": "F7501EA1-74F4-44C3-B851-255A0226D128",
+            "VisitContent": "无人接听",
+            "CallStatus": "05",
+            "MedicineEffect": ""
+        },
+        {
+            "Id": "C05B3D4A-123B-4B07-BA85-CF63349B50DB",
+            "CreationDate": "1/5/2018 09:54:00.41",
+            "BuyUserId": "0401CE1B-2A41-4879-83A2-FE8627E8CFB0",
+            "OperateId": "BB4B833B-2252-4D83-83D0-E63994B7330F",
+            "VisitContent": "未用药",
+            "CallStatus": "01",
+            "MedicineEffect": "07"
+        },
+        {
+            "Id": "A7487A20-146C-46AD-AAA6-6649C17ABC97",
+            "CreationDate": "1/5/2018 09:54:08.33",
+            "BuyUserId": "C9847BD7-0457-4D92-9D21-F1D17F7AE953",
+            "OperateId": "2B257A60-1287-49A0-90EB-FDEF19B684B9",
+            "VisitContent": "不方便",
+            "CallStatus": "12",
+            "MedicineEffect": ""
+        }
+    ]
+}
