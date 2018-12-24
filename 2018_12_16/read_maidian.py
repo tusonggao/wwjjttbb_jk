@@ -22,7 +22,7 @@ end_t = time.time()
 print('read_sql cost time: ', end_t-start_t)
 
 start_t = time.time()
-df.to_csv('df_maidian_small.csv')
+df.to_csv('df_maidian_small_20181224.csv')
 end_t = time.time()
 print('read_sql cost time: ', end_t-start_t)
 
