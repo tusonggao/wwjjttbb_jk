@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 from datetime import datetime
 
@@ -11,4 +12,18 @@ df = pd.read_csv('df_maidian_small.csv', index_col=0)
 print('df.columns is ', df.columns)
 
 df2 = pd.pivot_table(df, index=['date'])
-print(df2.shape)
+print(df2.head(5))
+
+df = pd.DataFrame({"A": ["foo", "foo", "foo", "foo", "foo",
+                   "bar", "bar", "bar", "bar"],
+                   "B": ["one", "one", "one", "two", "two",
+                         "one", "one", "two", "two"],
+                   "C": ["small", "large", "large", "small",
+                         "small", "large", "small", "small",
+                         "large"],
+                   "D": [1, 2, 2, 3, 3, 4, 5, 6, 7]})
+
+table = pd.pivot_table(df, values='D', index=['A', 'B'],
+                       columns=['C'], aggfunc=np.sum)
+print('table is ', table)
+
