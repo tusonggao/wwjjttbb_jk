@@ -1,8 +1,6 @@
-# !/usr/bin/env python
-# encoding: utf-8
-__author__ = 'Scarlett'
-#矩阵分解在打分预估系统中得到了成熟的发展和应用
-# from pylab import *
+# http://www.cnblogs.com/shenxiaolin/p/8637794.html
+
+
 import matplotlib.pyplot as plt
 from math import pow
 import numpy
