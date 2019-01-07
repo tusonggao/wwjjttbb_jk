@@ -1,5 +1,8 @@
 # https://zhuanlan.zhihu.com/p/42147194
 
+# http://cs229.stanford.edu/proj2012/BaoXia-MovieRatingEstimationAndRecommendation_FinalWriteup.pdf
+
+
 class SVD(object):
     """
     implementation of SVD for CF “https://zhuanlan.zhihu.com/p/42147194/”
